@@ -8,7 +8,6 @@ A list of awesome books, articles and websites of several subjects like mathemat
 
 ## Type theory.
 
-
 ### To begin.
 * [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/).
   Known as TAPL. From the untyped lambda-calculus to System F-omega with simply
@@ -19,6 +18,8 @@ A list of awesome books, articles and websites of several subjects like mathemat
   Simply typed lambda-calculus, polymorphism, type reconstruction, existantial
   types. Very interesting and some description of logical relations. Very good
   starting course. More theoretical than TAPL.
+* [Advanced functional
+  programming](https://www.cl.cam.ac.uk/teaching/1617/L28/materials.html).
 
 ### Must-read articles
 
